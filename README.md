@@ -1,4 +1,4 @@
-# 📘 Database Course Documentation
+#  Database Course Documentation
 
 This repository contains a comprehensive report and visual mind map for a database documentation task,
 developed as part of a course assignment. It covers fundamental database concepts, comparisons, roles,
@@ -8,7 +8,6 @@ and modern technologies in database systems.
 ##  Contents
 - `Database_Report.md` – The main detailed report.
 - `DBMS_MindMap.png` – Mind map illustrating the advantages of DBMS.
-- `References.md` – List of references used in the report.
 ---
 ##  Topics Covered
 
